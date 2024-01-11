@@ -13,18 +13,33 @@ achieve anonymity. We demonstrate the effectiveness of this design through trace
 more efficient than existing protocols.
 
 **HARDWARE REQUIREMENTS
+
 PROCESSOR : PENTIUM IV MHz
+
 RAM : 512 MB
+
 MONITOR : 15” COLOR
+
 HARD DISK : 40 GB
+
 KEYBOARD : STANDARD 101 KEYS
+
 MOUSE : 3 BUTTONS
-**SOFTWARE REQUIREMENTS
+
+**SOFTWARE 
+
 OPERATING SYSTEM : WINDOWS XP PROFESSIONAL
+
 FRONTEND : VISUAL STUDIO.NET 2008
+
 BACKEND : SQL SERVER 200
 
+
 ADVANTAGES
+
  It improves the efficiency and effectiveness of the design.
+
  This provide better result when compare with previous process.
+
  It used random walk mechanism to send data to receiver
+
